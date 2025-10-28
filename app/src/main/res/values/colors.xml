@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Modern Gradient Primary Colors (Purple-Blue Theme) -->
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#5549E0</color>
+    <color name="primary_light">#9D97FF</color>
+    <color name="secondary">#FF6584</color>
+    <color name="secondary_dark">#FF4569</color>
+    <color name="accent">#FFC947</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#667eea</color>
+    <color name="gradient_end">#764ba2</color>
+    <color name="gradient_green_start">#56ab2f</color>
+    <color name="gradient_green_end">#a8e063</color>
+    <color name="gradient_orange_start">#f2994a</color>
+    <color name="gradient_orange_end">#f2c94c</color>
+    <color name="gradient_pink_start">#ee0979</color>
+    <color name="gradient_pink_end">#ff6a00</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#F5F7FA</color>
+    <color name="background_dark">#1A1A2E</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_shadow">#40000000</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#2D3436</color>
+    <color name="text_secondary">#636E72</color>
+    <color name="text_hint">#B2BEC3</color>
+    <color name="text_white">#FFFFFF</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#00B894</color>
+    <color name="success_light">#55EFC4</color>
+    <color name="error">#FF6B6B</color>
+    <color name="error_light">#FFB8B8</color>
+    <color name="warning">#FDCB6E</color>
+    <color name="info">#74B9FF</color>
+    
+    <!-- Button Colors -->
+    <color name="button_gradient_start">#667eea</color>
+    <color name="button_gradient_end">#764ba2</color>
+    
+    <!-- Icon Colors -->
+    <color name="icon_blue">#4A90E2</color>
+    <color name="icon_green">#7ED321</color>
+    <color name="icon_orange">#F5A623</color>
+    <color name="icon_red">#E74C3C</color>
+    <color name="icon_purple">#9013FE</color>
+
+
+
+    <!-- Transparent Colors -->
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent_dark">#80000000</color>
+    <color name="semi_transparent_light">#40FFFFFF</color>
+</resources>

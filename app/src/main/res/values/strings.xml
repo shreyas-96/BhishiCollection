@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Routewise Collection</string>
+    
+    <!-- Main Menu -->
+    <string name="manage_routes">Manage Routes</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="make_deposit">Make Deposit</string>
+    <string name="view_reports">View Reports</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Payment Methods -->
+    <string-array name="payment_methods">
+        <item>Cash</item>
+        <item>UPI</item>
+        <item>Cheque</item>
+        <item>Bank Transfer</item>
+    </string-array>
+    
+    <!-- Common Strings -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    
+    <!-- Messages -->
+    <string name="success_customer_added">Customer added successfully</string>
+    <string name="success_deposit_saved">Deposit saved successfully</string>
+    <string name="error_required_fields">Please fill all required fields</string>
+    <string name="error_select_customer">Please select a customer</string>
+    <string name="error_enter_amount">Please enter deposit amount</string>
+</resources>
