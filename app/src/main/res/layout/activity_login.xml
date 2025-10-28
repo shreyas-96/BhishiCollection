@@ -11,6 +11,7 @@
     <TextView
         android:text="Agent Login"
         android:textSize="26sp"
+
         android:textStyle="bold"
         android:layout_marginBottom="32dp"
         android:textColor="#333"
